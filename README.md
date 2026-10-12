@@ -1,7 +1,5 @@
 # Self-Balancing Dancing Segway
 
-**Kennard Mah**
-
 Access to video and pictures:
 
 https://drive.google.com/drive/folders/1i2_h7K0nHX6o55lKXWxxARlcaVrOX2x7?usp=sharing
